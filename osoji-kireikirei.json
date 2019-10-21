@@ -5,15 +5,15 @@
 			"title": "受付台"
 		},
 		{
-			"check": false,
+			"check": true,
 			"title": "ソファのテーブル2つ"
 		},
 		{
-			"check": false,
+			"check": true,
 			"title": "本棚の前の机4つ"
 		},
 		{
-			"check": false,
+			"check": true,
 			"title": "卓球台"
 		},
 		{
