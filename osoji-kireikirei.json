@@ -1,0 +1,100 @@
+{
+	"task": [
+		{
+			"check": false,
+			"title": "受付台"
+		},
+		{
+			"check": false,
+			"title": "ソファのテーブル2つ"
+		},
+		{
+			"check": false,
+			"title": "本棚の前の机4つ"
+		},
+		{
+			"check": false,
+			"title": "卓球台"
+		},
+		{
+			"check": false,
+			"title": "廊下側の本棚"
+		},
+		{
+			"check": false,
+			"title": "セミナールーム側の本棚"
+		},
+		{
+			"check": false,
+			"title": "ソファ横の本棚"
+		},
+		{
+			"check": false,
+			"title": "会議室Aのホワイトボード"
+		},
+		{
+			"check": false,
+			"title": "会議室Bのホワイトボード"
+		},
+		{
+			"check": false,
+			"title": "セミナールームのホワイトボード"
+		},
+		{
+			"check": false,
+			"title": "入り口扉のガラス部分（3箇所）"
+		},
+		{
+			"check": false,
+			"title": "ソファ周り"
+		},
+		{
+			"check": false,
+			"title": "本棚前の机"
+		},
+		{
+			"check": false,
+			"title": "本の並び"
+		},
+		{
+			"check": false,
+			"title": "セミナールーム"
+		},
+		{
+			"check": false,
+			"title": "会議室A"
+		},
+		{
+			"check": false,
+			"title": "会議室A"
+		},
+		{
+			"check": false,
+			"title": "会議室A"
+		},
+		{
+			"check": false,
+			"title": "会議室B"
+		},
+		{
+			"check": false,
+			"title": "干場さんのお部屋"
+		},
+		{
+			"check": false,
+			"title": "藤田さんの横"
+		},
+		{
+			"check": false,
+			"title": "清水さんの横"
+		},
+		{
+			"check": false,
+			"title": "コピー機の横"
+		},
+		{
+			"check": false,
+			"title": "ソファ"
+		}
+	]
+}
