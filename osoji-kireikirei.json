@@ -29,11 +29,11 @@
 			"title": "ソファ横の本棚"
 		},
 		{
-			"check": false,
+			"check": true,
 			"title": "会議室Aのホワイトボード"
 		},
 		{
-			"check": false,
+			"check": true,
 			"title": "会議室Bのホワイトボード"
 		},
 		{
